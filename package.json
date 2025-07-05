@@ -1,0 +1,9 @@
+{
+  "name": "ts-seed-web",
+  "version": "1.0.1",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {},
+  "engines": {}
+}
